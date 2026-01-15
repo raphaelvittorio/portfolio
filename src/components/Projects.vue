@@ -109,7 +109,7 @@ const projects = ref([
         id: 3,
         title: "Universitas Cendrawasih Research & Staff Profile",
         desc: "A dedicated academic portal developed using React.js. Designed to showcase research publications and detailed profiles of the management team with a clean and responsive user interface.",
-        Image: '../public/project2.png',
+        Image: '/project2.png',
         category: 'Front-End',
         bordColor: 'border-emerald-500/20',
         badgColor: "bg-green-800",
@@ -130,7 +130,8 @@ const projects = ref([
     {
         id: 4,
         title: "Kompas Corner News Media",
-        desc: "A digital news media platform engineered with Laravel and PHP. Features a robust Content Management System (CMS) for article publishing, category management, and seamless content delivery to readers.",        Image: '../public/project3.png',
+        desc: "A digital news media platform engineered with Laravel and PHP. Features a robust Content Management System (CMS) for article publishing, category management, and seamless content delivery to readers.",        
+        Image: '/project3.png',
         category: 'Full-Stack',
         bordColor: 'border-emerald-500/20',
         badgColor: "bg-emerald-600",
