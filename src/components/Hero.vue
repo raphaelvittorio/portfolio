@@ -21,7 +21,7 @@
                     
                     <div class="flex items-center gap-4 pt-8 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0" data-aos="fade-up" data-aos-delay="300">
                         
-                        <a href="/cv_raphael.pdf" target="_blank" rel="noopener noreferrer" 
+                        <a href="/cv_raphaelvittorio.pdf" target="_blank" rel="noopener noreferrer" 
                            class="border-2 border-emerald-400 px-8 md:px-10 py-4 rounded-xl relative group w-full sm:w-max flex justify-center hover:bg-emerald-400/10 transition-all duration-300 cursor-pointer">
                             
                             <div class="flex items-center justify-center relative gap-2">
