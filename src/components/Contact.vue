@@ -46,16 +46,16 @@ const contactMethods = ref([
         icon: ['fas', 'envelope'] 
     },
     {
-        name: 'GitHub',
-        value: 'https://github.com/raphaelvittorio', // Sesuaikan username
-        link: 'https://github.com/raphaelvittorio',
-        icon: ['fab', 'github']
-    },
-    {
         name: 'LinkedIn',
         value: 'linkedin.com/in/raphaelvittorio', // Sesuaikan username
         link: 'http://linkedin.com/in/raphaelvittorio',
         icon: ['fab', 'linkedin']
+    },
+    {
+        name: 'GitHub',
+        value: 'https://github.com/raphaelvittorio', // Sesuaikan username
+        link: 'https://github.com/raphaelvittorio',
+        icon: ['fab', 'github']
     }
 ])
 </script>
